@@ -87,7 +87,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME':'btredb',
         'USER' : 'postgres',
-        'PASSWORD':'M.a.1803',
+        'PASSWORD':'11111',
         'HOST': 'localhost'
     }
 }
@@ -149,7 +149,7 @@ MESSAGE_TAGS = {
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_HOST_USER = 'janolsson3838@gmail.com'
-EMAIL_HOST_PASSWORD = 'M.a.1803'
+EMAIL_HOST_PASSWORD = '11111'
 EMAIL_USE_TLS = True
 
 # Heroku: Update database configuration from $DATABASE_URL.
